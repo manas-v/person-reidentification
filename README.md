@@ -34,6 +34,9 @@ KMeans was employed to find the number of unique clusters. Elbow method was appl
 
 Taking two similar images, the Euclidean distance between their features was calculated, based on which eps value for the model was set. The resultant produces 1302 clusters of unique persons in the dataset.
 
+#### Resultant clusters:
+![image](https://github.com/manas-v/person_identification_using_clustering/assets/59551550/e8db2939-ad1f-4a86-bb1d-e0fa06731290)
+
 ## Directory Structure
 The project repository consists of the following main folders:
 
