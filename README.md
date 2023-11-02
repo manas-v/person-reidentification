@@ -1,4 +1,4 @@
-# Person Re-identification: Estimate the number of unique people
+# Person Identification: Estimate the number of unique people
 
 ## Problem Statement
 
